@@ -12,7 +12,7 @@
 Sinta-se à vontade para me seguir ou me enviar uma mensagem!
 
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/victorborro)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:victorborro63@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:victorborro54@gmail.com)
 
 ## 💻 Sobre mim:
 
